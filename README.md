@@ -15,7 +15,7 @@ to the code that produced it.
 
 ## ▶ Interactive Analytical Dashboard (live)
 
-### **https://xundullah.github.io/Demo--TCSA-SolarGen-Prediction/**
+### **https://xundullah.github.io/TCSA--SolarGen-Prediction-Demo/**
 
 This is the **IAD of Fig. 6** in the manuscript, and the single most direct way to
 inspect the results without running any code. The dashboard — *SPFS: Solar-Plant
